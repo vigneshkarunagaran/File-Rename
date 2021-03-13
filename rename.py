@@ -28,6 +28,8 @@ for americaName in os.listdir(r'F:\PyCharm\samplee\original'):
     print(renameFrom,'\t', renameTo)
 
     shutil.move(renameFrom, renameTo)
+    
+   #new new new
    
 
 
